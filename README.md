@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Check out the web here (Netlify): https://all-country-details-using-react.netlify.app/
+Check out the web here (Netlify): https://all-country-details-using-react.netlify.app/   
 Check out the web here (Surge): https://stale-price.surge.sh/
